@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Product>
+  <Win32>
+    <DisplayName>Parallels RDP Client</DisplayName>
+    <Version>20.2.25889</Version>
+    <MsiPackageURL>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient-20.2.25889.msi</MsiPackageURL>
+    <BasicClient>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient_Basic-20.2.25889.exe</BasicClient>
+    <Message>\\The new version takes the full advantages of Parallels Remote Application Server.</Message>
+  </Win32>
+  <Win64>
+    <DisplayName>Parallels RDP Client</DisplayName>
+    <Version>20.2.25889</Version>
+    <MsiPackageURL>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient-x64-20.2.25889.msi</MsiPackageURL>
+    <BasicClient>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient_Basic-x64-20.2.25889.exe</BasicClient>
+    <Message>\\The new version takes the full advantages of Parallels Remote Application Server.</Message>
+  </Win64>
+  <WinARM64>
+    <DisplayName>Parallels RDP Client</DisplayName>
+    <Version>20.2.25889</Version>
+    <MsiPackageURL>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient-ARM64-20.2.25889.msi</MsiPackageURL>
+    <BasicClient>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient_Basic-ARM64-20.2.25889.exe</BasicClient>
+    <Message>\\The new version takes the full advantages of Parallels Remote Application Server.</Message>
+  </WinARM64>
+  <Linux64>
+    <DisplayName>Parallels RDP Client</DisplayName>
+    <Version>20.2.25889</Version>
+    <DebPackageURL>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient-20.2.25889_x86_64.deb</DebPackageURL>
+    <RpmPackageURL>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient-20.2.25889_x86_64.rpm</RpmPackageURL>
+    <TarBz2PackageURL>https://download.parallels.com/ras/v20/20.2.0.25889/RASClient-20.2.25889_x86_64.tar.bz2</TarBz2PackageURL>
+    <Message>\\The new version takes the full advantages of Parallels Remote Application Server.</Message>
+  </Linux64>
+</Product>
